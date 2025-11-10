@@ -1,2 +1,0 @@
-# ShardSurfers.io
-Test site
